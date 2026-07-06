@@ -1,5 +1,7 @@
 # Repository for manuscript: Archetypal Microbiome Profiles as Indicators of Nitrous Oxide Emission States in Activated Sludge
 
+Preprint on [arXiv](https://arxiv.org/abs/2606.18295)
+
 This repository contains an archetypal analysis workflow for N2O-related microbial genus abundance datasets. The main notebook loads the 2 datasets, fits three archetypes for each dataset, and displays four diagnostic plots per dataset.
 
 ## Repository Layout
