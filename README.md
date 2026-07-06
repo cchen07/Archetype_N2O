@@ -60,16 +60,6 @@ Key functions:
 - `plot_stack_bar_by_reactors`: plot stacked coefficients separately by reactor.
 - `plot_coefficients_vs_continuous_panels`: compare archetype coefficients with a continuous emission variable.
 
-## Run
-
-Install dependencies in your preferred environment, then launch Jupyter from the repository root:
-
-```bash
-jupyter notebook Code/plot.ipynb
-```
-
-The notebook also works if opened from inside the `Code/` directory because it resolves the project root automatically.
-
 ## Notes
 
 - The default number of archetypes in the notebook is `3`.
