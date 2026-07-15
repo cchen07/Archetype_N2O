@@ -7,15 +7,15 @@ This repository contains an archetypal analysis workflow for N2O-related microbi
 ## Repository Layout
 
 ```text
-.
-|-- Code/
-|   |-- plot.ipynb
-|   `-- plot_functions.py
-`-- Data/
-    |-- X_genus_W.csv
-    |-- X_genus_U.csv
-    |-- Emission_W.csv
-    `-- Emission_U.csv
+Repository/
+├── Code/
+│   ├── plot.ipynb
+│   └── plot_functions.py
+└── Data/
+    ├── X_genus_W.csv
+    ├── X_genus_U.csv
+    ├── Emission_W.csv
+    └── Emission_U.csv
 ```
 
 ## Data
